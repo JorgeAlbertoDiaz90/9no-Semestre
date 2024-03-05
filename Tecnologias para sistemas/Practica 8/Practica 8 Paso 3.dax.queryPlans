@@ -1,0 +1,9 @@
+{
+  "FileFormatVersion": 3,
+  "PhysicalQueryPlanRows": [],
+  "LogicalQueryPlanRows": [],
+  "ActivityID": null,
+  "CommandText": null,
+  "Parameters": null,
+  "StartDatetime": "0001-01-01T00:00:00"
+}

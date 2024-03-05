@@ -1,0 +1,8 @@
+﻿EVALUATE
+SUMMARIZECOLUMNS(
+	Clientes[Pais],
+	"Cantidad", [Cantidad]	
+)
+ORDER BY
+	Clientes[Pais]ASC
+	
