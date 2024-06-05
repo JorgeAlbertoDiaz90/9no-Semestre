@@ -1,0 +1,51 @@
+﻿username,password,firstname,lastname,email,course1,role1
+us_001,Usuario.001,Antonio,Aguilar,correo1@gmail.com,CURSOEJEMPLO1,student
+us_002,Usuario.002,José,Juárez,correo2@gmail.com,CURSOEJEMPLO1,student
+us_003,Usuario.003,Manuel,Ortiz,correo3@gmail.com,CURSOEJEMPLO1,student
+us_004,Usuario.004,Francisco,Álvarez,correo4@gmail.com,CURSOEJEMPLO1,student
+us_005,Usuario.005,David,Chávez,correo5@gmail.com,CURSOEJEMPLO1,student
+us_006,Usuario.006,Juan,Castillo,correo6@gmail.com,CURSOEJEMPLO1,student
+us_007,Usuario.007,José Antonio,Rivera,correo7@gmail.com,CURSOEJEMPLO1,student
+us_008,Usuario.008,Javier,Moreno,correo8@gmail.com,CURSOEJEMPLO1,student
+us_009,Usuario.009,Daniel,Rojas,correo9@gmail.com,CURSOEJEMPLO1,student
+us_010,Usuario.010,José Luis,Vargas,correo10@gmail.com,CURSOEJEMPLO1,student
+us_011,Usuario.011,Francisco Javier,Aguilar,correo11@gmail.com,CURSOEJEMPLO1,student
+us_012,Usuario.012,Carlos,Juárez,correo12@gmail.com,CURSOEJEMPLO1,student
+us_013,Usuario.013,Jesús,Ortiz,correo13@gmail.com,CURSOEJEMPLO1,student
+us_014,Usuario.014,Alejandro,Álvarez,correo14@gmail.com,CURSOEJEMPLO1,student
+us_015,Usuario.015,Miguel,Chávez,correo15@gmail.com,CURSOEJEMPLO1,student
+us_016,Usuario.016,José Manuel,Castillo,correo16@gmail.com,CURSOEJEMPLO1,student
+us_017,Usuario.017,Rafael,Rivera,correo17@gmail.com,CURSOEJEMPLO1,student
+us_018,Usuario.018,Miguel Ángel,Moreno,correo18@gmail.com,CURSOEJEMPLO1,student
+us_019,Usuario.019,Pedro,Rojas,correo19@gmail.com,CURSOEJEMPLO1,student
+us_020,Usuario.020,Ángel,Vargas,correo20@gmail.com,CURSOEJEMPLO1,student
+us_021,Usuario.021,Antonio,Aguilar,correo21@gmail.com,CURSOEJEMPLO1,student
+us_022,Usuario.022,José,Juárez,correo22@gmail.com,CURSOEJEMPLO1,student
+us_023,Usuario.023,Manuel,Ortiz,correo23@gmail.com,CURSOEJEMPLO1,student
+us_024,Usuario.024,Francisco,Álvarez,correo24@gmail.com,CURSOEJEMPLO1,student
+us_025,Usuario.025,David,Chávez,correo25@gmail.com,CURSOEJEMPLO1,student
+us_026,Usuario.026,Juan,Castillo,correo26@gmail.com,CURSOEJEMPLO2,student
+us_027,Usuario.027,José Antonio,Rivera,correo27@gmail.com,CURSOEJEMPLO2,student
+us_028,Usuario.028,Javier,Moreno,correo28@gmail.com,CURSOEJEMPLO2,student
+us_029,Usuario.029,Daniel,Rojas,correo29@gmail.com,CURSOEJEMPLO2,student
+us_030,Usuario.030,José Luis,Vargas,correo30@gmail.com,CURSOEJEMPLO2,student
+us_031,Usuario.031,Francisco Javier,Aguilar,correo31@gmail.com,CURSOEJEMPLO2,student
+us_032,Usuario.032,Carlos,Juárez,correo32@gmail.com,CURSOEJEMPLO2,student
+us_033,Usuario.033,Jesús,Ortiz,correo33@gmail.com,CURSOEJEMPLO2,student
+us_034,Usuario.034,Alejandro,Álvarez,correo34@gmail.com,CURSOEJEMPLO2,student
+us_035,Usuario.035,Miguel,Chávez,correo35@gmail.com,CURSOEJEMPLO2,student
+us_036,Usuario.036,José Manuel,Castillo,correo36@gmail.com,CURSOEJEMPLO2,student
+us_037,Usuario.037,Rafael,Rivera,correo37@gmail.com,CURSOEJEMPLO2,student
+us_038,Usuario.038,Miguel Ángel,Moreno,correo38@gmail.com,CURSOEJEMPLO2,student
+us_039,Usuario.039,Pedro,Rojas,correo39@gmail.com,CURSOEJEMPLO2,student
+us_040,Usuario.040,Ángel,Vargas,correo40@gmail.com,CURSOEJEMPLO2,student
+us_041,Usuario.041,Antonio,Aguilar,correo41@gmail.com,CURSOEJEMPLO2,student
+us_042,Usuario.042,José,Juárez,correo42@gmail.com,CURSOEJEMPLO2,student
+us_043,Usuario.043,Manuel,Ortiz,correo43@gmail.com,CURSOEJEMPLO2,student
+us_044,Usuario.044,Francisco,Álvarez,correo44@gmail.com,CURSOEJEMPLO2,student
+us_045,Usuario.045,David,Chávez,correo45@gmail.com,CURSOEJEMPLO2,student
+us_046,Usuario.046,Juan,Castillo,correo46@gmail.com,CURSOEJEMPLO2,student
+us_047,Usuario.047,José Antonio,Rivera,correo47@gmail.com,CURSOEJEMPLO2,student
+us_048,Usuario.048,Javier,Moreno,correo48@gmail.com,CURSOEJEMPLO2,student
+us_049,Usuario.049,Daniel,Rojas,correo49@gmail.com,CURSOEJEMPLO2,student
+us_050,Usuario.050,José Luis,Vargas,correo50@gmail.com,CURSOEJEMPLO2,student
